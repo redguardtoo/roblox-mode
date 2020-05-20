@@ -1,0 +1,9 @@
+* roblox-mode
+Emacs major mode to edit [[https://www.roblox.com/create][Roblox Studio]] rbxlx files.
+
+* Install
+Place =roblox-mode.el= under Load Path. Then add (require 'roblox-mode) to your configuration.
+* Usage
+Run =M-x roblox-edit-script= to edit embedded script in a special editor.
+* Bug Report
+Check [[https://github.com/redguardtoo/roblox-mode]].
